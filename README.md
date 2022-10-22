@@ -26,7 +26,7 @@ This will alert whenever there is a strike **within a 30km radius** (nearby) and
 
 
 ## Photos/Screenshots
-
+<img src="https://zachary.lol/assets/lightning_discord_example.png" />
 
 
 ## Contributing
